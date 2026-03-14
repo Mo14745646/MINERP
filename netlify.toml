@@ -5,6 +5,7 @@
 
 [build.environment]
   NEXT_USE_NETLIFY_EDGE = "true"
+  NEXT_PUBLIC_MOCK_API = "true"
 
 [[redirects]]
   from = "/*"
